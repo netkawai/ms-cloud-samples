@@ -1,0 +1,7 @@
+{
+    "authority": "https://login.microsoftonline.com/consumers",
+    "client_id": "",
+    "scope": ["User.Read","Files.ReadWrite"],
+    "username": "netkawai_at_mark_live_dot_com", 
+    "endpoint": "https://graph.microsoft.com/v1.0/"
+}

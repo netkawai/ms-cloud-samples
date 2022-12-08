@@ -1,0 +1,6 @@
+[submodule "PowerShellGallery-OneDrive"]
+	path = PowerShellGallery-OneDrive
+	url = https://github.com/MarcelMeurer/PowerShellGallery-OneDrive
+[submodule "onedrive-community-samples"]
+	path = onedrive-community-samples
+	url = https://github.com/OneDrive/onedrive-community-samples

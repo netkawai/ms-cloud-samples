@@ -1,0 +1,7 @@
+{
+    "authority": "https://login.microsoftonline.com/consumers",
+    "client_id": "",
+    "scope": ["User.Read"],
+    "username": "netkawai_atmark_live.com", 
+    "endpoint": "https://graph.microsoft.com/v1.0/me"
+}
